@@ -11,6 +11,7 @@ Models can be downloaded from following link
 https://drive.google.com/open?id=1sKD1ioXrXV6HMi4B6fGfjrRE6tOSDq0k
 
 Skip-gram model trained with word2vec : ur_wiki_fasttext_300.rar
+
 Skip-gram model trained with fasttext : wiki.ur.vector.rar
 
 Usage:
