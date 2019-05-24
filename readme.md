@@ -1,8 +1,7 @@
 ####Urdu Word Embeddings
 
- we have traind the skip-gram model using word2vec and fasttext on top of  four different urdu sources;
- Tweets, News Articles, Latest Wikipedia Urdu dump, and children urdu stories. The total number of tokens used to build the model amount to more than 300 million Urdu words to create the 
- large-scale word embeddings for the Urdu language..
+ we have traind the skip-gram model using word2vec and fasttext on top of   different urdu sources;
+ Tweets, News Articles, Latest Wikipedia Urdu dump, and publicly availble corpora. The total number of tokens used to build the model amount to more than 132,246,587 Urdu words to create the large-scale word embeddings for the Urdu language..
 
 ##Download:
 
